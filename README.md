@@ -1,6 +1,6 @@
 # Calculator App
 
-A new Flutter project.
+Have you ever thought about using a calculator app? well here is one basic calculator you could look through and copy to create you basic app. It's calculates basically the numbers. No complexity is integrated.
 
 ## Getting Started
 
